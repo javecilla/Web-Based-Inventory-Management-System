@@ -18,6 +18,8 @@ The Inventory System is designed to deliver a reliable and efficient solution fo
 
 For access to the Golden Minds Colleges Inventory System, [click here](https://ims.goldenmindsbulacan.com/auth/login).
 
+And to access and view the documentation of this project, [click here](https://drive.google.com/drive/folders/1THOlYmUuAZfYnjXEYUxOsQi4MT4xpA0j?usp=sharing).
+
 ## License
 
 This project is licensed under the [MIT License](https://github.com/javecilla/G12_THESIS_InventorySystem/blob/main/LICENSE).
