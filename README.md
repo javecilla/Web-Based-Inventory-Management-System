@@ -22,4 +22,4 @@ And to access and view the documentation of this project, [click here](https://d
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/javecilla/G12_THESIS_InventorySystem/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/javecilla/Web-Based-Inventory-Management-System/blob/main/LICENSE).
