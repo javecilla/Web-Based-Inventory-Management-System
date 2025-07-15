@@ -1,25 +1,59 @@
-![Logo](https://ims.goldenmindsbulacan.com/Ak2aX001.png)
+![Logo](https://jerome-avecilla.infinityfreeapp.com/assets/images/gmc-ims.png)
 
-# About
-The Inventory System is a comprehensive web-based solution developed as a thesis project for Senior High School at Golden Minds Colleges, Sta. Maria Campus, Bulacan. This project fulfills the requirements of the **Information and Communication Technology (ICT)** strand and aims to enhance the management of HRM tools and equipment inventories. The system provides a structured and automated approach to inventory management, including dynamic report generation. It comprises four key modules: Account Management, Tracking Management, Transaction Management, and Report Generation.
+# Web-Based Inventory Management for Golden Minds Colleges
 
-During Grade 12, I led my group in developing this Inventory System for HRM Tools and Equipment. Our dedication and innovative approach were recognized, earning our project the title of **Best Thesis for Innovation**. This system has since been adopted by Golden Minds Colleges as their main inventory management tool and is actively used within the institution.
+I developed the Web-Based Inventory System as a thesis project during my Senior High School at Golden Minds Colleges, Sta. Maria Campus, Bulacan. This project fulfills the requirements of the **Information and Communication Technology (ICT)** strand and provides a structured and automated approach to managing HRM tools and equipment inventories.
 
-### Expected Outcomes
+## Key Features  
+- **User-Friendly Interface**: Intuitive design for easy navigation.  
+- **Real-Time Tracking**: Monitors the location and status of tools and equipment.  
+- **Transaction Management**: Handles borrowing, returning, and inventory updates.  
+- **Dynamic Report Generation**: Provides essential reports for data-driven decisions.  
+- **Automated Alerts**: Notifies users of low stock, damaged equipment, or critical updates.  
+- **Integrated Mailing System**: Sends email notifications for important actions.  
 
-The Inventory System is designed to deliver a reliable and efficient solution for managing HRM tools and equipment. The key expected outcomes and features include:
+## Development Journey  
+During **Grade 12**, I led my group in developing this system, focusing on innovation and usability. Our dedication and technical approach earned us the **Best Thesis for Innovation** award. The system has since been officially adopted by Golden Minds Colleges as their primary inventory management tool.
 
-1. **User-Friendly Interface:** An intuitive and easy-to-navigate interface that simplifies inventory tasks for users.
-2. **Tracking System:** A robust tracking mechanism that monitors the location and status of tools and equipment in real-time.
-3. **Transaction System:** A comprehensive system for managing the borrowing and returning of tools and equipment, ensuring accurate records.
-4. **Reporting System:** A dynamic reporting module that generates essential reports for stakeholders, facilitating data-driven decisions.
-5. **Alert System:** An alert feature that notifies stakeholders of low stock levels, equipment damage, or other critical updates.
-6. **Mailing System:** Integrated email functionality to notify users about important system activities or required actions.
+## Technical Stack  
+- **Backend**: PHP for API development and server-side logic.  
+- **Frontend**: JavaScript and CSS for a responsive and interactive UI.  
+- **Database**: MySQL for structured data storage and efficient retrieval.  
+- **Deployment**: Hosted on a HostGator. 
 
-For access to the Golden Minds Colleges Inventory System, [click here](https://ims.goldenmindsbulacan.com/auth/login).
+This project refined my skills in **full-stack development**, particularly in designing **efficient database structures** and implementing **real-time tracking systems**.  
 
+<h3 align="left">Full Tech Stack Used:</h3>
+<p align="left">
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" title="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="30px" title="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" title="jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Back-End</kbd>
+    <br>
+    <br>
+    <img width="30px" title="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width="30px" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
+  </kbd>
+</p>
+
+## Demo
+
+You can try the live demo [https://ims.goldenmindsbulacan.com/](https://ims.goldenmindsbulacan.com/)
 And to access and view the documentation of this project, [click here](https://drive.google.com/drive/folders/1THOlYmUuAZfYnjXEYUxOsQi4MT4xpA0j?usp=sharing).
 
-## License
+## Contact
 
-This project is licensed under the [MIT License](https://github.com/javecilla/Web-Based-Inventory-Management-System/blob/main/LICENSE).
+- Portfolio: [jerome-avecilla.vercel.app](https://jerome-avecilla.vercel.app/)
+- Email: jeromesavc@gmail.com
+- GitHub: [@javecilla](https://github.com/javecilla)
